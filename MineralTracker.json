@@ -2,6 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mineral-tracker",
   
   "1.12.2": {
+    "0.6.0-alpha": "friends system, highly experimental",
     "0.5.1": "csv exports",
     "0.5.0": "configuration files",
     "0.5.0-alpha": "antique atlas support",
@@ -10,7 +11,7 @@
   },
   
   "promos": {
-    "1.12.2-latest": "0.5.1",
+    "1.12.2-latest": "0.6.0-alpha",
     "1.12.2-recommended": "0.5.1"
   }
 }
