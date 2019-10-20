@@ -2,7 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mineral-tracker",
   
   "1.12.2": {
-    "0.6.2-alpha": "fix dedicated server crash, add solo mode"
+    "0.6.2-alpha": "fix dedicated server crash, add solo mode",
     "0.6.1-alpha": "fix visual bug in friends system",
     "0.6.0-alpha": "friends system, highly experimental",
     "0.5.1": "csv exports",
