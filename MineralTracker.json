@@ -2,6 +2,8 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mineral-tracker",
   
   "1.12.2": {
+    "0.9.1": "fix server crashing on load, fix IE not working on client-only mode",
+    "0.9.0-alpha": "add Geolosys support",
     "0.8.3": "fix Immersive Engineering integration not working properly",
     "0.8.2": "add Athyrium Ferns as Clay, enhance override system, clean up textures",
     "0.8.1-alpha": "add TFC: Metallum support",
@@ -19,7 +21,7 @@
   },
   
   "promos": {
-    "1.12.2-latest": "0.8.3",
-    "1.12.2-recommended": "0.8.3"
+    "1.12.2-latest": "0.9.1",
+    "1.12.2-recommended": "0.9.1"
   }
 }
