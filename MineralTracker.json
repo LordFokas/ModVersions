@@ -2,6 +2,7 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/mineral-tracker",
   
   "1.12.2": {
+    "0.9.3": "add missing TFC:Metallum icons, fix markers being weird when very far from spawn",
     "0.9.2": "fix marker bug when playing multiple SP worlds without restarting the game",
     "0.9.1": "fix server crashing on load, fix IE not working on client-only mode",
     "0.9.0-alpha": "add Geolosys support",
@@ -22,7 +23,7 @@
   },
   
   "promos": {
-    "1.12.2-latest": "0.9.2",
-    "1.12.2-recommended": "0.9.2"
+    "1.12.2-latest": "0.9.3",
+    "1.12.2-recommended": "0.9.3"
   }
 }
