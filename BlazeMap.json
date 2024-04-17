@@ -1,16 +1,16 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/blaze-map",
+
+  "promos": {
+    "1.18.2-recommended": "0.5.12-beta",
+    "1.18.2-latest": "0.5.13-dev"
+  },
   
   "1.18.2": {
     "0.4.10-dev": "first public release",
     "0.4.11-dev": "add Rubidium support; fix small glitches",
     "0.5.11-alpha": "huge engine refactor, new features",
-    "0.5.12-beta": "first public beta; likely last 1.18.2 version",
+    "0.5.12-beta": "first public beta",
     "0.5.13-dev": "fix internal mod/addon debug tool"
-  },
-  
-  "promos": {
-    "1.18.2-latest": "0.5.13-dev",
-    "1.18.2-recommended": "0.5.12-beta"
   }
 }
