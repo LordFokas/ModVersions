@@ -2,11 +2,24 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/blaze-map",
 
   "promos": {
-    "1.18.2-recommended": "0.5.12-beta",
-    "1.18.2-latest": "0.5.13-dev"
+    "1.19.4-recommended": "0.6.0-beta",
+    "1.19.4-latest": "0.6.0-beta",
+    "1.19.2-recommended": "0.6.0-beta",
+    "1.19.2-latest": "0.6.0-beta",
+    "1.18.2-recommended": "0.5.14-beta",
+    "1.18.2-latest": "0.5.14-beta"
+  },
+
+  "1.19.4": {
+    "0.6.0-beta": "direct port of v0.5.12-beta to 1.19.x"
+  },
+
+  "1.19.2": {
+    "0.6.0-beta": "direct port of v0.5.12-beta to 1.19.x"
   },
   
   "1.18.2": {
+    "0.5.14-beta": "performance improvement; aditional API for Cartography features"
     "0.5.13-dev": "fix internal mod/addon debug tool",
     "0.5.12-beta": "first public beta",
     "0.5.11-alpha": "huge engine refactor, new features",
