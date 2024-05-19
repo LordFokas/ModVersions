@@ -6,8 +6,8 @@
     "1.19.4-latest": "0.6.1-beta",
     "1.19.2-recommended": "0.6.1-beta",
     "1.19.2-latest": "0.6.1-beta",
-    "1.18.2-recommended": "0.5.15-beta",
-    "1.18.2-latest": "0.5.15-beta"
+    "1.18.2-recommended": "0.5.16-beta",
+    "1.18.2-latest": "0.5.16-beta"
   },
 
   "1.19.4": {
@@ -21,6 +21,7 @@
   },
   
   "1.18.2": {
+    "0.5.16-beta": "new map layer, more configs, several fixes",
     "0.5.15-beta": "small QOL improvements",
     "0.5.14-beta": "performance improvement; aditional API for Cartography features"
     "0.5.13-dev": "fix internal mod/addon debug tool",
