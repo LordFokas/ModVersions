@@ -25,7 +25,7 @@
   "1.18.2": {
     "0.5.16-beta": "new map layer, more configs, several fixes",
     "0.5.15-beta": "small QOL improvements",
-    "0.5.14-beta": "performance improvement; aditional API for Cartography features"
+    "0.5.14-beta": "performance improvement; aditional API for Cartography features",
     "0.5.13-dev": "fix internal mod/addon debug tool",
     "0.5.12-beta": "first public beta",
     "0.5.11-alpha": "huge engine refactor, new features",
