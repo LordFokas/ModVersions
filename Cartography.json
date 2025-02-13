@@ -2,11 +2,23 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/cartography",
 
   "promos": {
-    "1.18.2-recommended": "0.4.0-beta",
-    "1.18.2-latest": "0.4.0-beta"
+    "1.20.1-recommended": "0.5.3-beta",
+    "1.20.1-latest": "0.5.3-beta",
+    "1.18.2-recommended": "0.4.4-beta",
+    "1.18.2-latest": "0.4.4-beta"
+  },
+  
+  "1.20.1": {
+    "0.5.3-beta": "Fixed temperature isolines rotation bug",
+    "0.5.2-beta": "Fixed crash on dedicated server; fixed discoveries bugs",
+    "0.5.1-beta": "Fixed 'pink world' bug",
+    "0.5.0-beta": "Port from 1.18.2"
   },
   
   "1.18.2": {
+    "0.4.4-beta": "Fixed temperature isolines rotation bug",
+    "0.4.3-beta": "Fixed crash on dedicated server; fixed discoveries bugs",
+    "0.4.2-beta": "Fixed 'pink world' bug",
     "0.4.0-beta": "ore and food tracking, new layer",
     "0.3.0-dev": "first public release"
   }

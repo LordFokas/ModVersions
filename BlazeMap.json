@@ -2,27 +2,38 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/blaze-map",
 
   "promos": {
-    "1.19.4-recommended": "0.6.2-beta",
-    "1.19.4-latest": "0.6.2-beta",
-    "1.19.2-recommended": "0.6.2-beta",
-    "1.19.2-latest": "0.6.2-beta",
-    "1.18.2-recommended": "0.5.16-beta",
-    "1.18.2-latest": "0.5.16-beta"
+    "1.20.1-recommended": "0.7.5-beta",
+    "1.20.1-latest": "0.7.5-beta",
+    "1.19.4-recommended": "0.6.3-beta",
+    "1.19.4-latest": "0.6.3-beta",
+    "1.19.2-recommended": "0.6.3-beta",
+    "1.19.2-latest": "0.6.3-beta",
+    "1.18.2-recommended": "0.5.20-beta",
+    "1.18.2-latest": "0.5.20-beta"
+  },
+
+  "1.20.1": {
+    "0.7.5-beta": "Fixed dedicated server crash; misc bug fixes; add search bar hotkey",
+    "0.7.4-beta": "Atlas export (F12)"
   },
 
   "1.19.4": {
+    "0.6.3-beta": "Fixed user reported crashes. Last release for this Minecraft version.",
     "0.6.2-beta": "feature and fix parity with 1.18.2",
     "0.6.1-beta": "fix keybinds; small QOL improvements",
     "0.6.0-beta": "direct port of v0.5.12-beta to 1.19.x"
   },
 
   "1.19.2": {
+    "0.6.3-beta": "Fixed user reported crashes. Last release for this Minecraft version.",
     "0.6.2-beta": "feature and fix parity with 1.18.2",
     "0.6.1-beta": "fix keybinds; small QOL improvements",
     "0.6.0-beta": "direct port of v0.5.12-beta to 1.19.x"
   },
   
   "1.18.2": {
+    "0.5.20-beta": "Misc bug fixes; add search bar hotkey",
+    "0.5.19-beta": "Add atlas export feature (F12)",
     "0.5.16-beta": "new map layer, more configs, several fixes",
     "0.5.15-beta": "small QOL improvements",
     "0.5.14-beta": "performance improvement; aditional API for Cartography features",
